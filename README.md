@@ -7,4 +7,4 @@ Le diagramme montre la distribution du nombre d'adoptions par procédures (par '
 
 Utiliser les toucehes directionnelles (gauche et droite) pour progresser suivant l'axe des années.
 
-*** Pour le setup, vous aurez juste besoin d'un serveur web.***
+**Pour le setup, vous aurez juste besoin d'un serveur web.**
